@@ -26,19 +26,19 @@
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- Design fitting the given game's theming
+- Simple architecture, though complex enough to be engaging
+- A sharp, or closest to sharp, dev schedule, with leeway in times when things are busy
+- Original game design, with consideration into inspiration
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** Casual Players, Completionists, those that appreciate world building
+- **Interests:** Single-Player, Narrative-Driven Experience, Puzzle-Solving
+- **Platforms:** Mobile, PC
 
 ---
 
@@ -46,8 +46,8 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- Puzzle, Platformer, 2D Game
+- Fantasy, Post-Apocalyptic, Mixed with Sci-Fi possibly
 
 ---
 
@@ -61,22 +61,22 @@
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** Unity
+- **Art Tools:** Traditional Tools (pencil, paper, markers, etc.), Clip Studio Paint, Photoshop possibly
+- **Audio Tools:** Audacity
+- **Version Control:** GitHub
+- **Publishing Platforms:** Itch.io, Unity Play
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** Minimalist, Creatively Simple, Interesting/Unique
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - "Simple games with the deepest stories."
+  - "Worlds you wish you could get lost in."
+  - "Our world is a canvas, and you're the brush."
 
 -- **Sketches/Logo**:
 
