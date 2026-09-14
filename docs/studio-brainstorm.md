@@ -80,7 +80,8 @@
 
 -- **Sketches/Logo**:
 
-<img width="3807" height="2301" alt="IMG_5408" src="https://github.com/user-attachments/assets/38908bd3-a028-40e6-878f-8cf61506a21e" />
+<img width="1904" height="1151" alt="IMG_5408" src="https://github.com/user-attachments/assets/a977bc88-5a29-45c9-bf9e-7e8c4bafd99a" />
+
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
