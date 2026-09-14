@@ -54,7 +54,7 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> We aim to reward who embrace creativity, and pay attention to every detail, even the smallest ones. Our games should reward those who pay attention to its rules, and use those rules in ways that allow them to achieve success.
 
 ---
 
@@ -80,7 +80,7 @@
 
 -- **Sketches/Logo**:
 
----
+<img width="3807" height="2301" alt="IMG_5408" src="https://github.com/user-attachments/assets/38908bd3-a028-40e6-878f-8cf61506a21e" />
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
