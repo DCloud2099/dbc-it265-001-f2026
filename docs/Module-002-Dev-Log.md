@@ -7,7 +7,7 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off-->
-- [ ] Finish Dev Log 2
+- [x] Finish Dev Log 2
 - [x] Decide which idea to go with for the project
 - [ ] Begin planning on which materials are needed for a physical piece
 
@@ -24,12 +24,17 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> When creating a game (in any medium), think about players' experience: What is their goal, what is repeatedly done, what grants progress, etc.
+> Concept Development Stages: combining inspirations, decide what's feasible, collaborate to find gaps and/or loopholes.
+> One-Page treatment: keep your ideas focused before thinking about the next thing so you can have a working prototype, or some form of progress.  <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> Tower-building and Keep-The-Item game ideas strongest at the moment, both are board games.
+> Most likely minimum or maximum of 4 players, always at least 2 players.
+> Allow for progression via mistakes made by opposing players, and vice versa.
+> Possibly a team feature, 2v2? Would require much more work when developing digital version. <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  Make a definitive decision on which game I'd like to pursue, iron out details of base gameplay, list what materials are required to make a physical prototype, try sketching out concept art for ideas (possibly). <!--Your entry here or N/A if not applicable for this entry-->
