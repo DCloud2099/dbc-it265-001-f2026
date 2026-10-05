@@ -55,14 +55,14 @@ Describe the nested activities in words or a simple diagram. The table is a star
 
 | Layer | Player activity or outcome | Tentative timing |
 | --- | --- | --- |
-| Immediate decision | | |
-| Larger objective | | |
-| Session | | |
+| Immediate decision | Move their piece on the board | When it's the player's turn to move, roughly about 10-18 seconds |
+| Larger objective | Acquire the victory item, and hold it after everyone has moved to score a point | happens at the end of everyone's turn, about 1-2 minutes |
+| Session | Play until one player reaches 21 points | However long it takes for one player to successfully hold the victory item for 21 rounds |
 
 Keep the working model in the journal. The treatment needs only the timing context that helps a reader understand play.
 
 ## Next Action
 
-**Next prototype, reader test, or design decision:**
+**Next prototype, reader test, or design decision:** Create board, with outlined spaces for where the player will be able to move, as well as pieces to represent players, and a dice for players to roll in order to move.
 
-**Uncertainty it will address:**
+**Uncertainty it will address:** How long the entire board for the players has to be, balancing that could be solved with optional cards or other special spaces.
