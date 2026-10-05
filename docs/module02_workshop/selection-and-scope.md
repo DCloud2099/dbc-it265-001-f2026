@@ -17,12 +17,10 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 **Feedback that changed or confirmed my choice, if received (otherwise say unavailable):** The game itself is simpler than the other concept that was proposed. It's less confusing in terms of the rules imposed, the gameplay loop is engaging, and there is potential to have a team system.
 
-**Other ideas to keep for later:** 
+**Other ideas to keep for later:** Tower Tumbler
 
-**First physical prototype boundary:**
+**First physical prototype boundary:** Base idea for game; Board game, special spaces that either benefit or hinder the player that lands on it, single or double dice to move the player piece.
 
 **One feature to defer:** Tower Tumbler, though maybe not as is. From peer review, instead of a tower why not a robot instead? And have the robots attack each other every turn, and the last one left standing wins.
 
 **One risk to test next:** Possibly feature creep; that is, I would rather not have the features of the game spiral into more and more features being added. The game itself is simple yet complex at its core, so it's best not to tamper with it unless the additions are small and manageable.
-
-Carry this decision into the [one-page treatment](./05-one-page-treatment.html) and [first journal entry](./06-journal-first-entry.html). Link this document's rendered page from your workshop index. It supports those documents rather than adding another graded submission.
