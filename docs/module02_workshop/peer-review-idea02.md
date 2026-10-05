@@ -9,7 +9,7 @@ Use one copy for each concept you review. Keep actual workshop notes together in
 
 **Concept:** Tower Tumbler
 
-**Reviewer initials:** GC
+**Reviewer initials:** IW
 
 **In my words, the player repeatedly:** builds their tower while the others build theirs. In addition to defending their tower from attacks from the other players. 
 
