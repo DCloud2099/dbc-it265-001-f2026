@@ -9,18 +9,18 @@ Use one copy for each concept you review. Keep actual workshop notes together in
 
 **Concept:** Finders Keepers
 
-**Reviewer initials:** 
+**Reviewer initials:** GC
 
-**In my words, the player repeatedly:**
+**In my words, the player repeatedly:** moves around the board in order to keep their piece from being stolen. If they don't have the piece themselves, then they work hard to steal it from the player who does have it.
 
-**One clarifying question:**
+**One clarifying question:** How is the location of the piece determined? Does a player have it before the game begins? 
 
-**Strongest hook or source of appeal:**
+**Strongest hook or source of appeal:** The game is essentially the reverse of Hot Potato. Instead of making sure that you don't have the piece at the end of a turn, you do your best to make sure you do have it. And being able to sabotage other players is good fun too.
 
-**What one student could prototype first:**
+**What one student could prototype first:** Some sort of looping board, like Monopoly. With spaces that grant benefits, and others that grant disadvantages. And some cards that do the same.
 
-**Biggest uncertainty or risk to test:**
+**Biggest uncertainty or risk to test:** Mainly the starting point of the game. To keep it even for everyone, all players should be starting from the same spot so that they all equally have a chance to grab the piece in order to start scoring points. 
 
-**One actionable suggestion:**
+**One actionable suggestion:** Have a way for the piece's position to be determined by the players, in a way that's equal for everyone. Left up to chance, specifically. Throw the piece onto the board and let the space it lands next to be where it sits. Have each player roll a dice and whoever rolls the highest gets the piece. Either way though, each player would have to start in the same space.
 
 Give your notes to the designer. Designers can use the feedback in the [selection sheet](./04-select-and-scope.html) and journal entry. Link this document's rendered page from your workshop index.
