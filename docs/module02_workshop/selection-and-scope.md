@@ -9,13 +9,13 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
 | --- | --- | --- | --- | --- |
-| | | | | |
-| | | | | |
+| Finders Keepers | Yes | Keeping other players from stealing from you, or doing your best to steal from them instead, prolonging the game | Yes | Little to no risk, if any |
+| Tower Tumbler| No | Being able to sabotage other players from progressing while constructing your own tower, another game that can be prolonged | Maybe | Physical prototype maybe be tricky to make, digital game build maybe not |
 | | | | | |
 
-**Selected concept and reason:**
+**Selected concept and reason:** Finders Keepers; It is the simpler option between the two, and more feasible to create as a physical prototype. Moreover, it is also still a game that can be enjoyed regardless of simplicity.
 
-**Feedback that changed or confirmed my choice, if received (otherwise say unavailable):**
+**Feedback that changed or confirmed my choice, if received (otherwise say unavailable):** 
 
 **Other ideas to keep for later:**
 
