@@ -1,3 +1,8 @@
+---
+layout: default
+title: "IT265 Module 2: Concept Pitch Cards"
+---
+
 ## Pitch Card 1
 
 **Working title:** Finders Keepers
@@ -31,5 +36,3 @@
 **Smallest useful physical prototype:** Dice/die, cards (custom), pieces (custom, if possible but small items will do), crafts supplies (markers, glue, etc.), posterboards, cardboard
 
 **Question I want listeners to answer:** Would a team-on-team player mode be a good idea? If that is so, what is the maximum amount of players possible? Is a 2-on-1 game mode possible? If so, is it fair?
-
-Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
