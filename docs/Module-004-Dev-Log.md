@@ -11,7 +11,7 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [ ] Dev Log for Module 4
+- [x] Dev Log for Module 4
 - [ ] Color Theory Case Study
 - [ ] Catalogue (take note of) what to have to make physical prototype
 
@@ -28,12 +28,14 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> Introduced to how color theory is used in games; how the game would look like with a lack of colors should not suddenly prevent the player from knowing what to do, but lack of color shouldn't mean that your game should be obvious to a fault; trust the player to learn what to do on their own, no yellow-paint work.
+> Look and feel of a game; what senses are affected by gameplay, helping the player feel immersed in the game, learned what transparent interface means in a game. <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  N/A <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  Begin and work on finishing the color theory case study of Atar Game study
+>  Begin gathering materials for at least base version of board game <!--Your entry here or N/A if not applicable for this entry-->
