@@ -4,7 +4,7 @@ _Game Design Treatment_
 
 **Designer:** Daniel Claudio
 
-**Updated:** 10/24/2026
+**Updated:** 10/25/2026
 
 <!--
 Use this document to explain the game clearly enough for a reader to understand
@@ -62,12 +62,11 @@ The game ends when a single player reaches the required amount of points. After 
 boards, cards, tokens, dice, or a score sheet. Use only what this game needs.
 Explain what the pieces represent and how a player uses them to try the core
 loop. This is a feasible plan, not a finished prototype or playtest result. -->
-
-[Describe the planned prototype, its pieces, and how they support play.]
+The planned prototype will consist of five main things: the board itself for the boardgame, a pair of die to roll, the pieces for the players, cards, and the artifact that they will try to snag and hold onto. The board will have spaces arranged all around its edges, similar to monopoly, with each space having a different type of effect denoted by a symbol. The cards will be the same, and will be acquired through certain spaces that grant them. There will be a card zone in the center of the board for the players to draw from. Each player will only be able to hold 2 cards at a time, and must return a card to the deck when they acquire a third. The dice are self explanatory, as they are the players' method of movement. The board for the board game is feasible enough, I would only need cardboard. There were dice that I could purchase in the NJIT bookstore, so that will be no issue either. The other three will be trickier to acquire. Cards alone will be difficult to print as much as I need, and player pieces will either have to be salvaged from other sources or hand-made. The same goes for the artifact that the players need to hold on to. 
 <!-- Describe the planned or current physical play area. Mark pieces that have
 not been made as planned, and update this section as the prototype develops.
 A plan can be described before the prototype is built. -->
-[Describe the physical version and the arrangement of its play area.]
+The plan has changed since then, with the conceptualized prototype being a little more simplified, but not by much and in different places it has also increased in complexity. The board itself is shaped as a cross, that way it can remain relatively small but still have just as much spaces for the players to travel on. I've done away with the cards so there's no need to worry about printing, instead opting for just the spaces on the board that will offer benefits and/or drawbacks for players that land on them. If possible, I'd like to add a spinner to the center of the board as well to replace the cards but that is not a necessity. Player pieces and artifacts still must be made at this time. 
 
 ### Pieces And Their Purpose
 
@@ -78,7 +77,11 @@ needed for setup. Repeated copies of the same piece can share one row. -->
 
 | Piece or material | Quantity for setup | What it represents | How it is used |
 | --- | --- | --- | --- |
-| [Piece or material] | [Quantity, if needed] | [Game meaning] | [Player action or rule it supports] |
+| Cardboard | One sheet, ideally large | The physical board for the game itself | Players movements will be along the spaces on the baord |
+| Dice | Ideally only 2, 3 at the most | It is the players' method of movement for the game | Players will first roll the dice to determine who moves first, where the artifact is located on the board, and how many spaces they move after |
+| Score Sheet | Either 1 that will be shared, or 4 for each separate player | Displays how many current points a player has (how close they are to winning) | Each time a player earns a point they will add a tally mark to their score sheet |
+| Artifact piece | Only 1 | For the game, holding it means you are close to winning | Players will move to reach it, then aim to keep it if they have it or steal it from the one that does if they don't |
+| Player pieces | 4 at most | They represent the players currently in the game | Players will use their pieces to perform actions; moving on the board, hindering other players or themselves, etc. |
 
 ### Materials And Mechanic Adjustments
 
@@ -86,6 +89,7 @@ needed for setup. Repeated copies of the same piece can share one row. -->
 for this prototype. Describe how rules, values, layouts, or pieces can be changed
 between playthroughs without rebuilding the whole prototype. Focus on usable,
 readable materials and actual design choices. -->
+Created materials include the board for the board game itself, player pieces, and the artifact piece. As for any reused pieces, the only thing that would qualify would be the dice used by the players to move. 
 [Explain the material choices and how mechanics can be adjusted during testing.]
 
 ## Intended Players
