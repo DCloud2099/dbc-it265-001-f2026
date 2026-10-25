@@ -1,10 +1,10 @@
-# [Working Game Title]
+# Temple Snag
 
 _Game Design Treatment_
 
 **Designer:** Daniel Claudio
 
-**Updated:** 10/14/2026
+**Updated:** 10/24/2026
 
 <!--
 Use this document to explain the game clearly enough for a reader to understand
@@ -18,12 +18,12 @@ proposals. A finished prototype or digital implementation is not needed here.
 ## Game Concept
 
 <!-- Explain why the working title fits. Mention alternative titles if useful. -->
-At the moment, the working title is "Finders Keep-Away". The name is apt given the fact that the players first have to find the victory piece on the board. Once they find it, their next goal is to keep it with them, and away from the other players. Another title that I had in mind was "Bandit's Calamities" though the "Calamity" half of the title held little to no significance to the game itself.
+At the moment, the working title is "Temple Snag". The previous working title was "Finders Keepers". Both titles are apt because the game entails the players working their way through the board in order to reach an item of interest first. Once they have the item in their possession, their goal is to keep it away from the other players for as long as possible. For the other players who do not have it in their possession, their objective is to "snag" it from the one holding it. The new title is more fitting for the game because it fits the theme of the game: all the players are tomb raiders who are aiming to be the first to grab a precious artifact, and "snag" it from the one who has it if they themselves don't.
 
 <!-- Describe the setting, theme, and story or premise. Identify the characters
 or the role the player takes. A game without a story can describe its situation
 and player roles instead; do not invent a narrative just to fill this section. -->
-Parts of the game were inspired by Monopoly. The idea was "What if Monopoly was reversed, and had the premise of the old game Keep Away?" The theme of a game is essentially the inverse of Monopoly: rather than playing to buy multiple buildings, the theme is that you're a bandit/rogue/thief etc. playing to hold onto a special item that will grant you victory. 
+Parts of the game were inspired by Monopoly. The idea was "What if Monopoly was reversed, and had the premise of the old game Keep Away?" Except, rather than having the game's theme being a simple "you're a thief protecting their loot," instead you are a tomb raider working towards the location of an artifact that you must snag before the other players do (as stated previously). The main goal of each player is to escape the temple before the others by holding onto the artifact for as long as you can.
 
 ## Gameplay
 
@@ -32,29 +32,29 @@ succeeds, fails, or ends. Describe the recurring decisions and actions, the rule
 that connect them, and what changes in the game as a result. Game state means the
 current situation, such as positions, resources, score, or available choices.
 Describe the intended experience through those interactions. -->
-[Describe the goals, challenges, and ending.]
-[Describe the player's goals and challenges.]
+The main goal of the player, as stated in the previous section, is to reach the artifact before the other players are able to. Once a player reaches the artifact and snags it, their new goal is to hold onto the artifact for as long as possible. The other players' new goal is to reach the player holding the artifact as fast as they can and snag the it from them. Once they have it, the cycle repeats. Each time every player has a turn, the player holding the artifact gains a point. The player who reaches the specified amount of points is the winner. The challenge that is posed against the player holding the artifact is that they have to remain ahead of all the other players as much as they can. Otherwise, they will lose the piece. For the ones not holding the artifact, their challenge is reaching the player holding it. This is especially difficult for those who consistently roll low whenever it is their turn to move. 
 
-[Explain the core loop: what the player considers, chooses or does, and how that changes the next decision.]
+The core loop of the game involves the player rolling a pair of dice in order to move along the spaces on the board. The board itself is a looping board, like Monopoly as an example. The main factor that influences the player's decision is whether or not they are holding the artifact. Do they move with the intent to catch up with the one holding it, or do they instead aim for spaces on the board that would pose hinderances to them instead. If they are holding it, do they move ahead as fast as possible, or do they sabotage their competitors instead so they are able to hold onto it for as long as possible? Distance between each player on the board is also a deciding factor. Players who are far behind may opt to slow down their opponents, or instead brute force their way to the front with high rolls. For the former, it may benefit them in the long run, and the latter it may work but with potentially more drawbacks. 
+
 ### Setup And Start
 
 <!-- Describe the starting state: how the play area and pieces are arranged,
 what each player begins with, and how play starts. Refer to the pieces described
 below rather than listing them twice. -->
-[Explain how a game is set up and begins.]
+The game begins with every player rolling a dice. The player who rolls the highest is the one to move first. Once that is decided, that player will then roll both die in order to determine how face the artifact is away from the starting position. To finish this off, the player who rolled the lowest will roll both die as well, and the two will be added together. That sum will be the location on the board where the artifact will sit. If there are two players who roll the same number, the two will roll against each other to break the tie. Before any player starts rolling their dice to move, they all decide on how many points a player should score in order to win. The default is 10 points, with the maximum being 21. All players begin on the same space on the board to give each player equal opportunity to reach the artifact, with the only thing changing that being the opening dice roll. 
 
 ### Core Gameplay Loop
 
 <!-- Describe the recurring player choices and actions, the rules that connect
 them, and what changes as a result. Game state is the current situation, such as
 positions, resources, score, or available choices. -->
-[Explain what the player considers, chooses or does, and how that changes the next decision.]
+As previously stated, the core gameplay loop revolves around players rolling a pair of die and snagging an artifact that is laid out somewhere on the board. Things for the player to consider include spacing between themself and other players, whether or not they are currently holding the artifact, how many points each player has, and what spaces are in front of them that will allow them to fast track their own progress. If they have the artifact, the question they ask themself turns into "how do I stay ahead of everyone else now?" If they don't, the question becomes "how do I get ahead of the artifact holder, then how do I stay ahead of everyone else?" If the player holding the artifact almost has enough points to win, then the other players need to devise ways to get the artifact away from them. 
 
 ### Ending And Outcome
 
 <!-- State when play ends and how the outcome is decided. Include win/lose
 conditions where applicable, or another clear beginning/end structure. -->
-[Explain the end conditions and resulting outcome.]
+The game ends when a single player reaches the required amount of points. After each player has made their move, that marks the end of a turn. At the end of a turn, the player holding the artifact gains a point. When a player has gained enough points (with the point goal having been established at the beginning of the game), then that player is the winner. In the context of the game, this means that the tomb raider has escaped with the artifact before the other players have. Once a player wins, the game ends, and the other players lose. 
 
 ## First Physical Prototype
 
@@ -62,6 +62,7 @@ conditions where applicable, or another clear beginning/end structure. -->
 boards, cards, tokens, dice, or a score sheet. Use only what this game needs.
 Explain what the pieces represent and how a player uses them to try the core
 loop. This is a feasible plan, not a finished prototype or playtest result. -->
+
 [Describe the planned prototype, its pieces, and how they support play.]
 <!-- Describe the planned or current physical play area. Mark pieces that have
 not been made as planned, and update this section as the prototype develops.
