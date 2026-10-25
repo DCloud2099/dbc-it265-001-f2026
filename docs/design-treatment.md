@@ -89,14 +89,14 @@ needed for setup. Repeated copies of the same piece can share one row. -->
 for this prototype. Describe how rules, values, layouts, or pieces can be changed
 between playthroughs without rebuilding the whole prototype. Focus on usable,
 readable materials and actual design choices. -->
-Created materials include the board for the board game itself, player pieces, and the artifact piece. As for any reused pieces, the only thing that would qualify would be the dice used by the players to move. 
-[Explain the material choices and how mechanics can be adjusted during testing.]
+Created materials include the board for the board game itself, player pieces, and the artifact piece. As for any reused pieces, the only thing that would qualify would be the dice used by the players to move. These materials would work for this prototype given that they fulfill all the core requirements for play to function properly in this game. A rule that could be subject to change without the need to rebuild the whole prototype would be the point requirement to win. Changing how much a player needs to score simple makes the game either longer or shorter. Another rule that could be changed is whether or not players work together. The core game mechanics stay the same, only now more than one player are working toward the same goal together, not separately. Layout of the spaces on the board wouldn't change since they are set, but the starting position of the players is possibly subject to change, so long as all players begin on the same space. 
 
 ## Intended Players
 
 <!-- Identify the intended audience's relevant interests and play habits.
 Explain why this game's decisions, theme, or intended experience would appeal
 to those players. Connect the audience to specific design choices. -->
+
 [Describe the intended players and why the game fits them.]
 
 ## Accessibility And Inclusivity
