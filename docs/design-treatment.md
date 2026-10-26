@@ -4,7 +4,7 @@ _Game Design Treatment_
 
 **Designer:** Daniel Claudio
 
-**Updated:** 10/25/2026
+**Updated:** 10/26/2026
 
 <!--
 Use this document to explain the game clearly enough for a reader to understand
@@ -120,7 +120,6 @@ The unique selling point of the game is that it is essentially an inverse of its
 and strongest USP in a concise pitch. Summarize the earlier sections rather
 than repeating their full details. -->
 Temple Snag is a multiplayer dice-rolling board game of both strategy and chance. You and 3 other players are tomb raiders whose goal is to reach the ancient artifact located somewhere on the board. Roll high on the dice to make it there faster, and do your best to keep the artifact with you. If you don't have it, then you better roll higher and snag it from the one who does. Be wary of the spaces you land on, too. Some spaces are traps, either for you or your opponents. Are you fast enough to reach the artifact before your competitors do? And are you skilled enough to stay ahead of them long enough to keep it? Or will your opponents get the better of you and snag it before you can claim victory? Good luck, and careful where you step in the temple!
-[Write the concise pitch.]
 
 ## Visual Direction
 
@@ -130,18 +129,18 @@ Temple Snag is a multiplayer dice-rolling board game of both strategy and chance
 the concept, style, space, or player interaction. Use Markdown image syntax with
 your image's actual path. The caption explains what the image represents and how
 its visual choices support the theme or intended player experience. -->
-[Insert the first sketch or storyboard image.]
+<img width="4032" height="3024" alt="IMG_5562" src="https://github.com/user-attachments/assets/fd69adbb-a4bf-4833-a9aa-f97b388b1269" />
 
-**Caption:** [Explain what this image shows and why its visual choices fit the game.]
+**Caption:** A sketch of the initial idea, where the theme was originally a competition between mafia families trying to steal a special item from one another. There were different sections for different mafia families, and there were ideas for what kind of graphics would be used on cards or different spaces. Gambling spaces and jail spots in each family section were to have players roll against each other to free themselves from prison or gain possession of the victory piece through rolling rather than passing. 
 
 ### Second Sketch Or Storyboard Panel
 
 <!-- Use a different image that adds information, such as another interaction,
 space, or moment. A second view should help the reader understand another part
 of the design. Connect its visual choices to the theme or player experience. -->
-[Insert the second sketch or storyboard image.]
+<img width="4032" height="3024" alt="IMG_5563" src="https://github.com/user-attachments/assets/7b6d9087-8e71-495a-81b5-6a035fd4a19a" />
 
-**Caption:** [Explain the distinct information this image adds and why its visual choices fit the game.]
+**Caption:** A sketch of a more finalized idea/concept about what the board will be like. The need for cards is no longer a factor, so they are replaced with a simpler setup for a space. There is a diagram of what a space will be like: the main graphic, and the space's effect. The effect will be 1 of 3: remain stationary next turn, move back a number of spaces, or move forward a number of spaces. There is also now a starting position. 
 
 ## Feedback And Revisions
 
@@ -150,11 +149,6 @@ Use initials or a first name and the person's relationship to you; omit private
 contact details. Each entry identifies a specific observation about the concept,
 mechanics, or style and the revision or next test it prompted. Record feedback
 that actually occurred, and distinguish a proposed change from a completed one. -->
-contact details. Give actionable observations about the concept, mechanics, or
-style. Explain the change or next test each observation prompted and its effect
-if tried. If a suggestion is not adopted, explain the design reason and how the
-underlying concern is addressed. Distinguish planned changes from completed ones;
-record only feedback and outcomes that actually occurred. -->
 
 | Reviewer and relationship | Specific observation | Revision or next test |
 | Reviewer and relationship | Specific observation | Response and effect on the design |
