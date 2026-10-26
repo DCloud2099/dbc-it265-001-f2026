@@ -119,6 +119,7 @@ The unique selling point of the game is that it is essentially an inverse of its
 <!-- Bring together the concept, theme, intended audience, player experience,
 and strongest USP in a concise pitch. Summarize the earlier sections rather
 than repeating their full details. -->
+Temple Snag is a multiplayer dice-rolling board game of both strategy and chance. You and 3 other players are tomb raiders whose goal is to reach the ancient artifact located somewhere on the board. Roll high on the dice to make it there faster, and do your best to keep the artifact with you. If you don't have it, then you better roll higher and snag it from the one who does. Be wary of the spaces you land on, too. Some spaces are traps, either for you or your opponents. Are you fast enough to reach the artifact before your competitors do? And are you skilled enough to stay ahead of them long enough to keep it? Or will your opponents get the better of you and snag it before you can claim victory? Good luck, and careful where you step in the temple!
 [Write the concise pitch.]
 
 ## Visual Direction
