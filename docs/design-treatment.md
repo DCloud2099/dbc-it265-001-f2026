@@ -96,8 +96,7 @@ Created materials include the board for the board game itself, player pieces, an
 <!-- Identify the intended audience's relevant interests and play habits.
 Explain why this game's decisions, theme, or intended experience would appeal
 to those players. Connect the audience to specific design choices. -->
-
-[Describe the intended players and why the game fits them.]
+The target audience are those who enjoy complexity in simplicity. The game itself is simple on the surface, but when playing the game the players can find that there are opportunities to strategize what their next move will be when considering the different factors in play. How many points each player has, how far back or ahead they are in relation to other players, who currently has the artifact. It may also be intriguing to players who enjoy games such as Tomb Raider or series like Indiana Jones, considering the theme. Being able to play as a character in that same profession may be exciting for those who enjoy the genre. 
 
 ## Accessibility And Inclusivity
 
@@ -105,7 +104,7 @@ to those players. Connect the audience to specific design choices. -->
 understand, and use the game's actual interactions. Explain how these choices
 preserve the intended gameplay and can carry into the later digital version.
 Choose considerations relevant to this game; a generic feature list is not enough. -->
-[Describe the accessibility choices and how they support play.]
+The only interactions the game has at a base level is a few things: rolling the dice, moving their player piece, and dealing with the resulting effect of the space you landed on. Players with differing abilities will face the same challenges as others. Players who put more thought into the game's interactions with the players may give more thought into who their actions affect in the long run. And because the base interactions are so simple, they will translate into the digital version easily. The decisions made by the player all begin with the roll of a dice, and once they finish moving their next interaction will be determined by whatever space they land on. It may be a benefit, drawback, or nothing at all. For that reason play is preserved regardless of who the player is and what abilities they may have. 
 
 ## Unique Selling Points (USP)
 
@@ -113,9 +112,7 @@ Choose considerations relevant to this game; a generic feature list is not enoug
 players a reason to choose this game. Explain those choices through a relevant
 comparison with an existing game. Connect the differences to the intended
 players' experience; support the comparison with concrete design details. -->
-players' experience; support the comparison with concrete design details.
-Explain why the difference would make play more interesting to those players. -->
-[Explain the game's unique selling points and the relevant comparison.]
+The unique selling point of the game is that it is essentially an inverse of its inspiration, with that inspiration being Monopoly with bits of the game Keep-Away. In Monopoly, your main goal is to play until you have bought every purchasable space on the board. In this game, your goal is to steal exactly one artifact before anyone else does. In addition to this, there is the challenge of keeping the artifact away from the other players for as long as you can. The more proficient you are at it, the faster you win. On the other side, players who are the most efficient with moving on the board will also be able to snag the artifact quicker, and subsequently win faster. The USP in that sense is the question "are you skilled enough to catch up, and keep ahead?"
 
 ## Concept Pitch
 
