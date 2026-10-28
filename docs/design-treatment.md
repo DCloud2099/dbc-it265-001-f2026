@@ -4,7 +4,7 @@ _Game Design Treatment_
 
 **Designer:** Daniel Claudio
 
-**Updated:** 10/26/2026
+**Updated:** 10/28/2026
 
 <!--
 Use this document to explain the game clearly enough for a reader to understand
@@ -150,15 +150,11 @@ contact details. Each entry identifies a specific observation about the concept,
 mechanics, or style and the revision or next test it prompted. Record feedback
 that actually occurred, and distinguish a proposed change from a completed one. -->
 
-| Reviewer and relationship | Specific observation | Revision or next test |
-| Reviewer and relationship | Specific observation | Response and effect on the design |
+| Reviewer and relationship | Specific observation | Revision or next test/effect on the design |
 | --- | --- | --- |
-| [Person 1] | [Observation] | [Revision or next test] |
-| [Person 2] | [Observation] | [Revision or next test] |
-| [Person 3] | [Observation] | [Revision or next test] |
-| [Person 1] | [Observation] | [Change or next test, reason, and effect if observed] |
-| [Person 2] | [Observation] | [Change or next test, reason, and effect if observed] |
-| [Person 3] | [Observation] | [Change or next test, reason, and effect if observed] |
+| GC, family member | Decision of location of the artifact is currently unreliable | Location of the artifact determined by first and last players |
+| IW, family friend | The starting point of the game is unfair for the players who start further away from the artifact location | Instead, marked the beginning point of the game where all players will start from equally |
+| RC, family member | Theme isn't present, less engaging to play | New theme of the game is ancient artifact hunting, with players being competing tomb raiders/treasure hunters, inspired by media like Indiana Jones |
 
 ## Physical Prototype Demo Plan
 
@@ -167,13 +163,13 @@ Show the actual pieces, a representative interaction, and how the game ends or
 reaches its outcome. Make the strongest USP and a concrete feedback-driven change
 clear. Keep this as planning notes, not a second treatment or a full script. -->
 
-**Presentation time cap:** [Use the limit given for the presentation.]
+**Presentation time cap:** 5 minutes
 
 | Segment | What to show or explain | Planned time |
 | --- | --- | --- |
-| Introduction | Core concept and strongest USP | [Time] |
-| Prototype | Pieces, their meaning, and how players use them | [Time] |
-| Gameplay | A representative interaction and the ending or outcome | [Time] |
-| Feedback | A concrete design change and why it was made | [Time] |
+| Introduction | Core concept and strongest USP | 1 minute - 1 minute, 30 seconds |
+| Prototype | Pieces, their meaning, and how players use them | 1 minute - 1 minute, 30 seconds |
+| Gameplay | A representative interaction and the ending or outcome | 2 minutes |
+| Feedback | A concrete design change and why it was made | 1 minute |
 
-**Planned total:** [Duration]
+**Planned total:** 5 minutes
