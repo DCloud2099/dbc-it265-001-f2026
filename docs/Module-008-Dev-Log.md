@@ -11,7 +11,7 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [ ] Complete dev log for module 8
+- [x] Complete dev log for module 8
 - [ ] List down concepts and ideas from presentation feedback
 - [ ] Begin digital recreation of project
 
@@ -28,12 +28,12 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> Player agency required, more intriguing features required, limitations on what players can do/how the artifact is held
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> Add new features for more intriguing play (like card effects, randomized buffs of debuffs, etc.), limitations on how long a player can hold onto the artifact, special abilities that each particular player may have
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  For now, I'd like to begin planning the layout of the digital recreation of the game. Once that is planned out begin recreating the game digitally.
